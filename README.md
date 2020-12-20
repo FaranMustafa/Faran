@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to playing games and listen to music
 
 ### Spotify Playing 🎧
 
@@ -18,13 +18,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Profile" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/924/924874.svg" />][website]
+[<img align="left" alt="twitter-logo | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="LinkedIn-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="Instagram-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />][instagram]
 
 <br />
+
+#### ⚡ Github Stats:
+
+<img align="left" alt="Faran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaranMustafa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+<img align="left" alt="Faran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaranMustafa&hide_border=true&layout=compact" />
 
 ### Languages and Tools:
 
@@ -50,33 +54,33 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 
 <!-- YOUTUBE:START -->
 
-- [Top VS Code Updates | Last 2020 Update | v1.52 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=dgOu1Y9xl5k)
+<!-- - [Top VS Code Updates | Last 2020 Update | v1.52 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=dgOu1Y9xl5k)
 - [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/watch?v=3tG1jUQbuSI)
 - [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/watch?v=NhWCEdja9W4)
 - [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/watch?v=7k7ETzqOxn8)
-- [Quick JavaScript Challenge from Scrimba - Advent Calendar](https://www.youtube.com/watch?v=V-J2OnZRC0I)
+- [Quick JavaScript Challenge from Scrimba - Advent Calendar](https://www.youtube.com/watch?v=V-J2OnZRC0I) -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+<!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
 ---
 
@@ -84,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+1. ❌ Closed PR [#14](https://github.com/codeSTACKr/FaranMustafa/pull/14) in [FaranMustafa/FaranMustafa](https://github.com/FaranMustafa/FaranMustafa)
+2. 🗣 Commented on [#14](https://github.com/FaranMustafa/FaranMustafa/issues/14) in [FaranMustafa/FaranMustafa](https://github.com/FaranMustafa/FaranMustafa)
+3. ❌ Closed PR [#7](https://github.com/FaranMustafa/FaranMustafa/pull/7) in [FaranMustafa/FaranMustafa](https://github.com/FaranMustafa/FaranMustafa)
+4. 🎉 Merged PR [#6](https://github.com/FaranMustafa/FaranMustafa/pull/6) in [FaranMustafa/FaranMustafa](https://github.com/FaranMustafa/codeSTACKr)
+5. 💪 Opened PR [#259](https://github.com/FaranMustafa/app-ideas/pull/259) in [FaranMustafa/app-ideas](https://github.com/FaranMustafa/app-ideas)
 <!--END_SECTION:activity-->
 
 </details>
@@ -102,10 +106,10 @@
 
 [website]: https://faranmustafa.github.io/Portfolio/
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/fmustafa044
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/faran_mustafa_/
+[linkedin]: https://www.linkedin.com/in/faran-mustafa/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
