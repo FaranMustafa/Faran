@@ -1,7 +1,6 @@
 ### Hi there, I'm Faran 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=fmustafa044)
 
 ## I'm a Student, and a Developer!!
 
@@ -29,6 +28,8 @@
 
 <img align="left" alt="Faran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaranMustafa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
 <img align="left" alt="Faran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaranMustafa&hide_border=true&layout=compact" />
+
+<br />
 
 ### Languages and Tools:
 
@@ -84,7 +85,6 @@
 
 ---
 
-<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -95,14 +95,12 @@
 5. 💪 Opened PR [#259](https://github.com/FaranMustafa/app-ideas/pull/259) in [FaranMustafa/app-ideas](https://github.com/FaranMustafa/app-ideas)
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://faranmustafa.github.io/Portfolio/
 [course]: http://vsCodeHero.com
