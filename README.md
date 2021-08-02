@@ -16,8 +16,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+ -->
 ### Connect with me:
 
 [<img align="left" alt="Profile" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/924/924874.svg" />][website]
@@ -102,9 +102,7 @@
 </details> -->
 
 [website]: https://faranmustafa.github.io/Portfolio/
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/fmustafa044
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/faran_mustafa_/
 [linkedin]: https://www.linkedin.com/in/faran-mustafa/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
