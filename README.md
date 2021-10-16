@@ -18,15 +18,6 @@
 
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
  -->
-### Connect with me:
-
-[<img align="left" alt="Profile" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/924/924874.svg" />][website]
-
-[<img align="left" alt="twitter-logo | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
-
-[<img align="left" alt="LinkedIn-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
-
-[<img align="left" alt="Instagram-logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />][instagram]
 
 <br />
 
