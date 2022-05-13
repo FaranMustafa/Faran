@@ -13,6 +13,7 @@
 <img align="left" alt="Faran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaranMustafa&hide_border=true&layout=compact&theme=blueberry" />
 
 
+<br/>
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -24,7 +25,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-
+<br/>
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -39,7 +40,7 @@
 
 
 
-<b>🔥 Github Streaks</b>
+### 🔥 Github Streaks
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FaranMustafa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="FaranMustafa" /></p>
 
 
