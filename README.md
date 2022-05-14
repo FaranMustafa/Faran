@@ -7,10 +7,6 @@
     <img src="https://media2.giphy.com/media/Rsp9jLIy0VZOKlZziw/giphy.gif">
 </p>
 
-#### ⚡ Github Stats:
-
-
-
 
 ### Languages
 
@@ -33,6 +29,8 @@
 
 ### 🔥 Github Streaks
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FaranMustafa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="FaranMustafa" /></p>
+
+### ⚡ Github Stats:
 
 
 <img align="left" alt="Farab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaranMustafa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" />
