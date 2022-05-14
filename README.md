@@ -30,13 +30,16 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
+
+### 🔥 Github Streaks
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FaranMustafa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="FaranMustafa" /></p>
+
+
 <img align="left" alt="Farab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaranMustafa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" />
 <img align="left" alt="Faran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaranMustafa&hide_border=true&layout=compact&theme=blueberry" />
 
 
 
-### 🔥 Github Streaks
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FaranMustafa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="FaranMustafa" /></p>
 
 
 
